@@ -51,7 +51,6 @@ This is flask web application allows users to upload the resuke in **pdf** forma
       - email
       - address
       - skills
-      - work details
       - certifications
 
 
