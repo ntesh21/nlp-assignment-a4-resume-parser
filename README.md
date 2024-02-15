@@ -40,11 +40,11 @@ This is flask web application allows users to upload the resuke in **pdf** forma
 - This app uses the parser class mentioned above to parse the resume details from the uploaded pdf.
 - This web application consists of two web pages - Home Page(*index.html*) and Result Page(*result.html*)
    * Home Page: 
-   ![alt text](./webapp/static/homepage.png?raw=true)
+   ![alt text](./app/static/homepage.png?raw=true)
    Here user can upload the pdf version of the resume.
 
    * Result Page:
-   ![alt text](./webapp/static/resultpage.png?raw=true)
+   ![alt text](./app/static/resultpage.png?raw=true)
    Here the results parsed from the resume is displayed in the tabular format.
    The fields displayed are:
       - phone number
